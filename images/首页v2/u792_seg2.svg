@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="130px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="1045 3063  130 8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip141">
+      <path d="M 990 2619  L 1110 2619  L 1110 2704  L 990 2704  Z M 938 2241  L 1175 2241  L 1175 3070  L 938 3070  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 938 2244  L 1045 2244  A 5 5 0 0 1 1050 2249 L 1050 3062  A 5 5 0 0 0 1055 3067 L 1175 3067  " stroke-width="2" stroke-dasharray="6,2" stroke="#70b603" fill="none" mask="url(#clip141)" />
+</svg>

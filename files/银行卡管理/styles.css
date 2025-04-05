@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u520_img {
+#u1228_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:882px;
   height:1366px;
 }
-#u520 {
+#u1228 {
   border-width:0px;
   position:absolute;
   left:1184px;
@@ -33,20 +33,20 @@
   height:1366px;
   display:flex;
 }
-#u520 .text {
+#u1228 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u520_text {
+#u1228_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u521_img {
+#u1229_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   width:850px;
   height:1096px;
 }
-#u521 {
+#u1229 {
   border-width:0px;
   position:absolute;
   left:148px;
@@ -63,20 +63,20 @@
   height:1096px;
   display:flex;
 }
-#u521 .text {
+#u1229 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u521_text {
+#u1229_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u522_div {
+#u1230_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,7 +94,7 @@
   font-weight:650;
   font-style:normal;
 }
-#u522 {
+#u1230 {
   border-width:0px;
   position:absolute;
   left:490px;
@@ -106,19 +106,19 @@
   font-weight:650;
   font-style:normal;
 }
-#u522 .text {
+#u1230 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u522_text {
+#u1230_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u523_div {
+#u1231_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -136,7 +136,7 @@
   font-weight:650;
   font-style:normal;
 }
-#u523 {
+#u1231 {
   border-width:0px;
   position:absolute;
   left:1541px;
@@ -148,14 +148,14 @@
   font-weight:650;
   font-style:normal;
 }
-#u523 .text {
+#u1231 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u523_text {
+#u1231_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
