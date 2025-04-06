@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="90px" height="34px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip146">
+    <mask fill="white" id="clip220">
       <path d="M 243.5 1301  L 270.5 1301  L 270.5 1323  L 243.5 1323  Z M 211 1294  L 301 1294  L 301 1328  L 211 1328  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -211 -1294 )">
     <path d="M 211.5 1294.5  L 300.5 1294.5  L 300.5 1327.5  L 211.5 1327.5  L 211.5 1294.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" />
     <path d="M 211.5 1294.5  L 300.5 1294.5  L 300.5 1327.5  L 211.5 1327.5  L 211.5 1294.5  Z " stroke-width="1" stroke="#303030" fill="none" />
-    <path d="M 212.238124829853 1294.46773604683  L 299.761875170147 1327.53226395317  M 299.761875170147 1294.46773604683  L 212.238124829853 1327.53226395317  " stroke-width="1" stroke="#303030" fill="none" mask="url(#clip146)" />
+    <path d="M 212.238124829853 1294.46773604683  L 299.761875170147 1327.53226395317  M 299.761875170147 1294.46773604683  L 212.238124829853 1327.53226395317  " stroke-width="1" stroke="#303030" fill="none" mask="url(#clip220)" />
   </g>
 </svg>
