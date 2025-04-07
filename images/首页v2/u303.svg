@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="80px" height="75px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip556">
+      <path d="M 1970.5 2054  L 1997.5 2054  L 1997.5 2076  L 1970.5 2076  Z M 1943 2027  L 2023 2027  L 2023 2102  L 1943 2102  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1943 -2027 )">
+    <path d="M 1943.5 2027.5  L 2022.5 2027.5  L 2022.5 2101.5  L 1943.5 2101.5  L 1943.5 2027.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 1943.5 2027.5  L 2022.5 2027.5  L 2022.5 2101.5  L 1943.5 2101.5  L 1943.5 2027.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 1943.38908650887 2027.36476860207  L 2022.61091349113 2101.63523139793  M 2022.61091349113 2027.36476860207  L 1943.38908650887 2101.63523139793  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip556)" />
+  </g>
+</svg>

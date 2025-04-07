@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="51px" height="29px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip194">
-      <path d="M 789 2505  L 830 2505  L 830 2523  L 789 2523  Z M 783 2498  L 834 2498  L 834 2527  L 783 2527  Z " fill-rule="evenodd" />
-    </mask>
+    <filter x="904px" y="2220px" width="40px" height="50px" filterUnits="userSpaceOnUse" id="filter563">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget564">
+      <path d="M 923 2263.03692846835  C 917.2 2253.40734059591  908.5 2247.62958787244  908.5 2238  C 908.5 2232.98571428571  911.4 2224.5  923 2224.5  C 934.6 2224.5  937.5 2232.98571428571  937.5 2238  C 937.5 2247.62958787244  928.8 2253.40734059591  923 2263.03692846835  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" />
+      <path d="M 923 2264  C 917 2254  908 2248  908 2238  C 908 2232.8  911 2224  923 2224  C 935 2224  938 2232.8  938 2238  C 938 2248  929 2254  923 2264  Z M 923 2262.07385693671  C 928.6 2252.81468119182  937 2247.25917574489  937 2238  C 937 2233.17142857143  934.2 2225  923 2225  C 911.8 2225  909 2233.17142857143  909 2238  C 909 2247.25917574489  917.4 2252.81468119182  923 2262.07385693671  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    </g>
   </defs>
-  <g transform="matrix(1 0 0 1 -783 -2498 )">
-    <path d="M 783.5 2498.5  L 833.5 2498.5  L 833.5 2526.5  L 783.5 2526.5  L 783.5 2498.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" />
-    <path d="M 783.5 2498.5  L 833.5 2498.5  L 833.5 2526.5  L 783.5 2526.5  L 783.5 2498.5  Z " stroke-width="1" stroke="#303030" fill="none" />
-    <path d="M 783.76437579423 2498.43464505946  L 833.23562420577 2526.56535494054  M 833.23562420577 2498.43464505946  L 783.76437579423 2526.56535494054  " stroke-width="1" stroke="#303030" fill="none" mask="url(#clip194)" />
+  <g transform="matrix(1 0 0 1 -904 -2220 )">
+    <use xlink:href="#widget564" filter="url(#filter563)" />
+    <use xlink:href="#widget564" />
   </g>
 </svg>
